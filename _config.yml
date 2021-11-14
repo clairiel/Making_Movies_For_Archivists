@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Making Movies for Archivists
+email: claire.laura.williams.27@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Step along instructions for ACA Workshop "Making Movies for Archivists".
 baseurl: "/Making_Movies_For_Archivists" # the subpath of your site, e.g. /blog
 url: "https://clairiel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: clairielll
+github_username: clairiel
 
 # Build settings
 theme: "just-the-docs"
