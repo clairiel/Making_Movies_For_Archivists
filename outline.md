@@ -15,17 +15,17 @@ By the end of this workshop, you will be able to identify various tools for crea
 | [Dynamic narratives](../Making_Movies_For_Archivists/Foundations/dynamic-narratives.html)| 0:20
 | [What is Shotcut?](../Making_Movies_For_Archivists/Foundations/what-is-shotcut.html)| 0:25
 | Break | 0:30
-| Part 2 |
-| Shotcut basics | 0:45
-| Importing media | 0:50
-| Adding to the timeline | 0:55
-| Tracks and filters | 1:15
+| [Part 2](../Making_Movies_For_Archivists/Editing Film/) |
+| [Shotcut basics](../Making_Movies_For_Archivists/Editing-Film/shotcut-basics.html) | 0:45
+| [Importing media](../Making_Movies_For_Archivists/Editing-Film/importing-media.html) | 0:50
+| [Adding to the timeline](../Making_Movies_For_Archivists/Editing-Film/adding-to-the-timeline.html) | 0:55
+| [Tracks and filters](../Making_Movies_For_Archivists/Editing-Film/tracks-and-filters.html) | 1:15
 | Break | 1:25
-| Part 3 |
-| Titles and credits | 1:30
-| Keyframes | 1:45
-| Editing sound | 2:00
-| Exporting media | 2:05
-| Sharing back | 2:15
-| Accessibility | 2:25
-| Wrap-up | 2:30
+| [Part 3](../Making_Movies_For_Archivists/Finalizing-Film) |
+| [Titles and credits](../Making_Movies_For_Archivists/Finalizing-Film/titles-and-credits.html) | 1:30
+| [Keyframes](../Making_Movies_For_Archivists/Finalizing-Film/keyframes.html) | 1:45
+| [Editing sound](../Making_Movies_For_Archivists/Finalizing-Film/editing-sound.html) | 2:00
+| [Exporting media](../Making_Movies_For_Archivists/Finalizing-Film/exporting-media.html) | 2:05
+| [Sharing back](../Making_Movies_For_Archivists/Finalizing-Film/sharing-back.html) | 2:15
+| [Accessibility](../Making_Movies_For_Archivists/Finalizing-Film/accessibility.html) | 2:25
+| [Wrap-up](../Making_Movies_For_Archivists/Finalizing-Film/wrap-up.html) | 2:30
