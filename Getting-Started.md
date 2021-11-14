@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started
-nav_order: 2
+nav_order: 1
 ---
 # Before we get started, here are a few tips:
 + Close all other programs except for your internet browser and Zoom. (And later, Shotcut!)

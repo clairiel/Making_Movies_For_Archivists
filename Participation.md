@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participation
-nav_order: 3
+nav_order: 2
 ---
 We hope you actively participate in this workshop! Your voice, questions, comments, and experiences all help to make the workshop more engaging and help provide the opportunity for a variety of perspectives!
 

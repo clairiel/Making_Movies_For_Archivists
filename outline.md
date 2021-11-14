@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Outline
-nav_order: 4
+nav_order: 3
 ---
 # Goal of this Workshop
 By the end of this workshop, you will be able to identify various tools for creating and editing movies. You'll recognize the elements of a dynamic and engaging film-based narrative. You'll create a short movie using images and audio in the open-source movie editing software, Shotcut. Finally you'll be able to identify accessibility concerns when creating and sharing movies, and locate resources for creating accessible movies.
