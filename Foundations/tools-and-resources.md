@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tools and Resources
+title: Tools and resources
 parent: Part 1 - Foundations
 nav_order: 2
 ---
