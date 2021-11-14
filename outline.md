@@ -10,7 +10,7 @@ By the end of this workshop, you will be able to identify various tools for crea
 
 | Content   | Time
 | ------- |:-------------:
-| [Part 1](../Making_Movies_For_Archivists/Part-1)  |
+| [Part 1](../Making_Movies_For_Archivists/Foundations/)  |
 | [Tools and resources](../Making_Movies_For_Archivists/Foundations/tools-and-resources.html)| 0:10
 | [Dynamic narratives](../Making_Movies_For_Archivists/Foundations/dynamic-narratives.html)| 0:20
 | What is Shotcut?| 0:25
