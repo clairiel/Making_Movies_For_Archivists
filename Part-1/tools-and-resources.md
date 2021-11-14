@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tools and Resources
-parent: Part-1
+parent: Part 1 - Making Movie Magic
 nav_order: 2
 ---
 # Tools
