@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Foundations
+title: Dynamic narratives
 parent: Part 1 - Foundations
 nav_order: 3
 ---
