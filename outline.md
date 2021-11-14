@@ -8,7 +8,7 @@ By the end of this workshop, you will be able to identify various tools for crea
 
 # Schedule
 
-| Time    | Content
+| Content   | Time
 | ------- |:-------------:
 | Part 1  |
 | Tools and resources| 0:10
@@ -28,4 +28,4 @@ By the end of this workshop, you will be able to identify various tools for crea
 | Exporting media | 2:05
 | Sharing back | 2:15
 | Accessibility | 2:25
-| Wrap-up | 2:30 
+| Wrap-up | 2:30
