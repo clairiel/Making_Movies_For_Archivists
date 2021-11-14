@@ -10,7 +10,7 @@ By the end of this workshop, you will be able to identify various tools for crea
 
 | Content   | Time
 | ------- |:-------------:
-| Part 1  |
+| [Part 1](/Part-1)  |
 | Tools and resources| 0:10
 | Foundations of dynamic films| 0:20
 | What is Shotcut?| 0:25
