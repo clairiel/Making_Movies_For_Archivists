@@ -3,7 +3,7 @@ layout: page
 title: Participation
 nav_order: 3
 ---
-We hope you actively participate in this workshop! Your voice, questions, comments, and experiences all help to make the workshop more engaging and help provide the opportunity for a variety of perspectives! 
+We hope you actively participate in this workshop! Your voice, questions, comments, and experiences all help to make the workshop more engaging and help provide the opportunity for a variety of perspectives!
 
 # Participants window
 
@@ -19,4 +19,4 @@ The Chat window is a good place to report problems with your audio connection. I
 
 # Share your screen
 
-In some cases instructors may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share.
+In some cases the instructor may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share.
