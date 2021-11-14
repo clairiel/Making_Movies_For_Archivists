@@ -7,7 +7,8 @@ nav_order: 1
 # Tools
 
 ## Movie-editing platforms and software
-
+Today, there are more options, platforms and software for creating and sharing movies than ever before! Anyone with a Smartphone can 'hit record' and share a simple video. The tools listed below will help you take your video-content to the next level, allowing you to combine images, audio, screen-casts, video clips and more to create anything you can imagine. If you have the time, try out a few different tools to experience for yourself the difference between these platforms, both in terms of features, and your own personal preferences balancing the complexity and functionality of the software. Today' we'll be using the open-source video editing software, Shotcut, which is a timeline based film editor, and will be a great introduction to many of the higher end paid video editors, such as Final Cut Pro or Adobe Premiere. Some more options are listed below:
+### [Shotcut](https://shotcut.org/)
 ### [iMovie](https://www.apple.com/ca/imovie/)
 ### [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/)
 ### [Adobe Premiere](https://www.adobe.com/ca/products/premiere/movie-and-film-editing.html?promoid=Y2KRGXD5&mv=other)
@@ -20,12 +21,16 @@ nav_order: 1
 
 ## Hardware and supplies
 
+While all you need for today's workshop is a personal computer, if you find yourself getting into creating and editing a lot of movies, I recommend the following:
+
 ### Microphone
 ### Tripod with iPhone Attachment
 ### Large or dual monitor
 ### Mouse
 
 # Resources
+
+Please find below some resources for open-source and free images, audio, and stock footage.
 
 ## Image resources
 
