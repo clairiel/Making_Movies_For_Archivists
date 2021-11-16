@@ -21,7 +21,7 @@ Today, there are more options, platforms and software for creating and sharing m
 
 ## Hardware and supplies
 
-While all you need for today's workshop is a personal computer, if you find yourself doing a lot of movie editing, I recommend the following:
+While all you need for today's workshop is a personal computer, if you find yourself making movies on the regular, I recommend the following:
 
 + Microphone
 + Tripod with iPhone Attachment
