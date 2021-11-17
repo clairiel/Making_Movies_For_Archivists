@@ -5,3 +5,10 @@ parent: Part 2 - Editing film
 nav_order: 1
 ---
 # Familiarizing yourself with Shotcut
+
++ Preview
++ Timeline
++ Playlist
++ Filters
++ Properties
++ Jobs 
