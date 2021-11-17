@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Familiarizing yourself with Shotcut
 
-All windows within Shotcut can be expanded, closed, or moved around. The ones we'll need to work with today are listed below. 
+All windows within Shotcut can be expanded, closed, or moved around. The ones we'll need to work with today are listed below.
 
 + Preview
 + Timeline/Keyframes
@@ -14,3 +14,4 @@ All windows within Shotcut can be expanded, closed, or moved around. The ones we
 + Filters
 + Properties
 + Jobs
++ Playhead 
