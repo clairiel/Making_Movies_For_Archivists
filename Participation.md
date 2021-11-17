@@ -16,7 +16,3 @@ Example participants window:
 Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so.
 
 The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session.
-
-# Share your screen
-
-In some cases the instructor may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share.
