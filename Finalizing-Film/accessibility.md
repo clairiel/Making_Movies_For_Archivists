@@ -16,7 +16,7 @@ nav_order: 6
 # Audio Considerations
 
 ## Subtitles and transcripts
-  Subtitles are essential for people who are Deaf and hard-of-hearing. While there are some tools which will auto-caption your film (including YouTube), these auto-captions should be checked and edited to be confirmed for full accuracy. Please see the accessibility guidelines on subtitles for more information [here.](https://www.w3.org/WAI/media/av/captions/#automatic-captions-are-not-sufficient). If you have created a script for a voice over in your movie, this can be helpful for creating captions, and can also be used to provide a full transcript for the movie.
+  Subtitles are essential for people who are Deaf and hard-of-hearing. While there are some tools which will auto-caption your film (including YouTube), these auto-captions should be checked and edited to be confirmed for full accuracy. Please see the accessibility guidelines on subtitles for more information [here.](https://www.w3.org/WAI/media/av/captions/#automatic-captions-are-not-sufficient) If you have created a script for a voice over in your movie, this can be helpful for creating captions, and can also be used to provide a full transcript for the movie.
 
 ## Background music
   Background music and other background noise should be kept at 20 dB below that of the foreground audio, or there should be a mechanism to mute it all together.
