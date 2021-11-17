@@ -15,4 +15,6 @@ nav_order: 1
     + Release the Cmmd key...
     + To switch back to the last program that was active, simply press Cmmd+Tab
 + If experiencing technical difficulties, please raise your hand.
-+ A note on film creation and editing. 
++ A note on film creation and editing
+   + How many folks have experience with filming and editing film?
+   
