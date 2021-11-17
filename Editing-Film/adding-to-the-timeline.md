@@ -9,4 +9,4 @@ nav_order: 3
 + We can drag and drop items into the timeline, or select them and then click to add them into the timeline.
 + Once clips are in the timeline, we can crop them, or stretch still images to the desired length.
 + Practice dragging, dropping and shortening/lengthening clips.
-+ Practice rearranging the order of clips in the timeline. Note that when two clips overlap, a transition is automatically created. 
++ Practice rearranging the order of clips in the timeline. Note that when two clips overlap, a transition is automatically created.
