@@ -10,6 +10,10 @@ Take a moment and think of a movie you watched that held your interest. Now thin
 
 With film, we have the opportunity to combine images, sound, and text. Even with very simple elements, we can create a dynamic narrative.
 
+## Length
+
+Movies, especially promotional or educational should be no longer than necessary aka the shorter the better.  
+
 ## Movement
 
 Adding movement is a key way to make a film more engaging for viewers.
@@ -19,6 +23,7 @@ Suggestions:
 + Add movement to text and/or still images using effects such as pan and zoom
 + Film a walkthrough of your space
 + Film yourself leafing through a favourite folder, opening a box, or pulling a photograph from an envelope
++ Film multiple angles simoultaneously and cut back and forth between these.
 
 ## Rhythm
 
@@ -48,4 +53,4 @@ Suggestions:
 
 + Select materials which you find particularly emotionally evocative and include them in your movies.
 + Music and sound-effects greatly influence emotional tone-- try a few different styles and genres each time you're working on a new project!
-+ Ideally, movement, rhythm, and contrast will all work together to cohesively inform the emotion you want your viewers to experience! Watch for these elements in advertisements and movie trailers to see how the experts do it, and 'steal like an artist'! 
++ Ideally, movement, rhythm, and contrast will all work together to cohesively inform the emotion you want your viewers to experience! Watch for these elements in advertisements and movie trailers to see how the experts do it, and 'steal like an artist'!
