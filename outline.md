@@ -20,10 +20,9 @@ By the end of this workshop, you will be able to identify various tools for crea
 | [Importing media](../Making_Movies_For_Archivists/Editing-Film/importing-media.html) | 0:50
 | [Adding to the timeline](../Making_Movies_For_Archivists/Editing-Film/adding-to-the-timeline.html) | 0:55
 | [Tracks and filters](../Making_Movies_For_Archivists/Editing-Film/tracks-and-filters.html) | 1:15
-| Break | 1:25
+| Break | 1:35
 | [Part 3](../Making_Movies_For_Archivists/Finalizing-Film) |
-| [Titles and credits](../Making_Movies_For_Archivists/Finalizing-Film/titles-and-credits.html) | 1:30
-| [Keyframes](../Making_Movies_For_Archivists/Finalizing-Film/keyframes.html) | 1:45
+| [Titles and credits](../Making_Movies_For_Archivists/Finalizing-Film/titles-and-credits.html) | 1:45
 | [Editing sound](../Making_Movies_For_Archivists/Finalizing-Film/editing-sound.html) | 2:00
 | [Exporting media](../Making_Movies_For_Archivists/Finalizing-Film/exporting-media.html) | 2:05
 | [Sharing back](../Making_Movies_For_Archivists/Finalizing-Film/sharing-back.html) | 2:15
